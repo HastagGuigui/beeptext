@@ -48,4 +48,4 @@ Code by #Guigui (Guillaume G.)
 
 inspired by (C) Atom Smasher.
 
-Rights of all icons to their original owners and designers. (unfortunately idk who they are so if you can find them please open an issue)
+The MIT license only applies to the codebase itself. Everything inside the assets folder belong to their respective owners.
