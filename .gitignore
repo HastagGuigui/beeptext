@@ -1,0 +1,9 @@
+bin/*
+include/*
+lib/*
+lib64/*
+__pycache__
+*.zip
+test.png
+pyvenv.cfg
+config.json

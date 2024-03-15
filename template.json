@@ -1,0 +1,6 @@
+{
+    "theme": "default",
+    "default_icon": "bubble_q",
+    "title_text": "System Message",
+    "buttons": [["OK", true]]
+}

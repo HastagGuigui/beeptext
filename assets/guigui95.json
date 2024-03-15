@@ -1,0 +1,13 @@
+{
+    "background": "#88cea4",
+    "titlebar": {
+        "backdrop": "#2ab263",
+        "textcolor": "#ffffff"
+    },
+    "textcolor": "#000000",
+    "style": {
+        "highlight": "#afffcf",
+        "shadow": "#59a076",
+        "outline": "#000000"
+    }
+}

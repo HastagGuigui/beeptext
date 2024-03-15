@@ -1,0 +1,6 @@
+#!/bin/bash
+
+Dir_path="$(readlink -f "${BASH_SOURCE}")"
+echo "Script location is: $Dir_path"
+cd `dirname "$Dir_path"`
+./bin/python ./index.py $1 $2 $3
