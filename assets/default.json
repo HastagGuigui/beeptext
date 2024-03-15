@@ -1,4 +1,9 @@
 {
+    "metadata": {
+        "title": "Windows 95 Default",
+        "creator": "Microsoft Corp.",
+        "description": "The base Windows 95 look."
+    },
     "background": "#d4d0c8",
     "titlebar": {
         "backdrop": "#0A246A",
