@@ -1,5 +1,6 @@
 # `beeptext`
-the quick error image generator
+!["Hey, how may I help you?"](https://github.com/HastagGuigui/beeptext/assets/47950669/7f932e05-655f-4412-a6b2-8b6bb0cdd990)
+
 
 ## what's this?
 Beeptext is a python script (that can be executed as a command) that allows you to quickly make a Windows 95-style popup, with custom text and everything, and directly put it as a screenshot in your clipboard!
