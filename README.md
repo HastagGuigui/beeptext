@@ -24,9 +24,14 @@ If you have the png file in `assets/icons/`, you can have a popup with the icon 
 Here's a json example, with colors sourced from the default Windows 95 theme. 
 ```jsonc
 {
+    "metadata": { // This entire section is ignored by the script and is mostly meant for crediting.
+        "title": "my very cool theme", // A font title.
+        "creator": "meeee :3", // The author.
+        "description": "beep boop" //
+    },
     "background": "#d4d0c8", // Window background color
     "titlebar": {
-        "backdrop": "#0A246A", // Title background color
+        "backdrop": "#00aaaa", // Title background color
         "textcolor": "#ffffff" // Title text color.
     },
     "textcolor": "#000000", // The color of all text that's not the title
@@ -49,3 +54,4 @@ Code by #Guigui (Guillaume G.)
 inspired by (C) Atom Smasher.
 
 The MIT license only applies to the codebase itself. Everything inside the assets folder belong to their respective owners.
+`Windows Regular.ttf` is ["Windows"](https://loremipsum.ro/fonts/windows/) by [Levi Szekeres](https://loremipsum.ro/). Available as "free for personal use".
